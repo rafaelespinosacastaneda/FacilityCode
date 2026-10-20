@@ -1,0 +1,4 @@
+-r requirements.txt
+torch>=2.1
+gpytorch>=1.11
+xgboost>=2.0
